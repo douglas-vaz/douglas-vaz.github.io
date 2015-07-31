@@ -73,3 +73,6 @@ DEPENDENCIES
   jekyll
   nokogiri
   sass
+
+BUNDLED WITH
+   1.10.6

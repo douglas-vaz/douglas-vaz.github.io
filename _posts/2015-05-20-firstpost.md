@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Hello Ruby
+title: Hello Jekyll!
 ---
 Well...
 
