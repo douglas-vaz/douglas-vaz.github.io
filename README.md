@@ -1,4 +1,4 @@
-HTML5 Muffin chocchip steps
+Steps
 ============================
 
 Run bundle install
@@ -7,4 +7,4 @@ Run bundle install
 
 Run jekyll
 
-	jekyll
+	jekyll sS
